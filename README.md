@@ -1,2 +1,2 @@
 # MyFirstRepository
-This is an exercise for ST445
+This is an exercise for STA445
